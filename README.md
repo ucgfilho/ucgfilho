@@ -1,4 +1,4 @@
-## Eaí! Meu nome é Ubirajara e seja bem-vindo ao meu perfil
+## Eaí! Meu nome é Ubirajara e seja bem-vindo(a) ao meu perfil
 
 -  Hoje trabalho com front-end
 -  Aprendendo CSS, HTML e JavaScript na prática
