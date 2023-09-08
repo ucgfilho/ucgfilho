@@ -1,16 +1,15 @@
-### Hi there 👋
+## Eaí! Meu nome é Ubirajara e seja bem-vindo ao meu perfil
 
-<!--
-**ucgfilho/ucgfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  Hoje trabalho com front-end
+-  Aprendendo CSS, HTML e JavaScript na prática
+ _______________________________________________________________________
+-  **Email:** ucg.filho@outlook.com
+-  **LinkedIn:** https://www.linkedin.com/in/ubirajara-filho-93137b249/
+-  **Instagram:** [@ucg.filho](https://www.instagram.com/ucg.filho/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/ucgfilho">
+    <img height=200vh align="center" src="https://github-readme-stats.vercel.app/api?username=ucgfilho&theme=tokyonight" />
+    <img height=150vh align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ucgfilho&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
+  </a>
+</div>
