@@ -1,7 +1,8 @@
-## Eaí! Meu nome é Ubirajara e seja bem-vindo(a) ao meu perfil
+## Oi! Meu nome é Ubirajara e seja bem-vindo(a) ao meu perfil
 
--  Hoje trabalho com front-end
--  Aprendendo CSS, HTML e JavaScript na prática
+-  Trabalho com front-end e design
+-  CSS, HTML e JavaScript
+-  Experiência em Figma e Adobe Illustrator
  _______________________________________________________________________
 -  **Email:** ucg.filho@outlook.com
 -  **LinkedIn:** https://www.linkedin.com/in/ubirajara-filho-93137b249/
