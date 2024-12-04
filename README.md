@@ -1,8 +1,7 @@
 ## Olá, meu nome é Ubirajara e seja bem-vindo(a) ao meu perfil!
 
 -  Trabalho com front-end e design
--  CSS, HTML e JavaScript
--  Experiência em Figma e Adobe Illustrator
+-  Experiência em Adobe Photoshop e Figma
  _______________________________________________________________________
 -  **Email:** ucg.filho@outlook.com
 -  **LinkedIn:** https://www.linkedin.com/in/ubirajara-filho-93137b249/
