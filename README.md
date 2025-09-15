@@ -1,13 +1,35 @@
-## Olá! Sou Ubirajara, graduando em Sistemas de Informação pela UESB e atuo na área de Análise de Testes (QA), com foco em testes funcionais e automatizados.
+## 👋 Olá, eu sou o Ubirajara!
 
-Tenho experiência prática na validação de aplicações, realizando testes manuais e automatizados para os projetos envolvidos. Trabalho com ferramentas como Postman, Cypress, Ruby, Gherkin, Python e JavaScript, sempre buscando aprimorar processos de teste e a experiência do usuário final.
- _______________________________________________________________________
--  **Email:** ucg.profissional@gmail.com
--  **LinkedIn:** www.linkedin.com/in/ucgfilho
+🎓 **Graduando em Sistemas de Informação pela UESB**  
+💼 **Analista de Testes (QA)** | 🧪 **Automação de Testes**  
+📍 **Vitória da Conquista, BA, Brasil**  
+📧 **ucg.profissional@gmail.com**  
+🔗 [Meu Portfólio](https://meu-portifolio.com)
 
-<div>
-  <a href="https://github.com/ucgfilho">
-    <img height=200vh align="center" src="https://github-readme-stats.vercel.app/api?username=ucgfilho&theme=tokyonight" />
-    <img height=200vh align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ucgfilho&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
-  </a>
-</div>
+---
+
+### 🚀 Sobre mim
+
+Sou apaixonado por tecnologia e inovação, com foco em garantir a qualidade e a confiabilidade dos sistemas em que atuo por meio de testes eficientes e bem estruturados. Atualmente, estou me aprofundando em automação de testes utilizando ferramentas como Cypress, Postman, Ruby, Gherkin, Python e JavaScript.
+
+---
+
+### 🛠️ Tecnologias que utilizo
+
+- **Testes Funcionais e Automatizados:** Cypress, Postman  
+- **Linguagens de Programação:** Ruby, Gherkin, Python, JavaScript  
+- **Ferramentas de Desenvolvimento:** Git, GitHub, GitLab, Docker
+
+---
+
+### 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ubirajara&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+### 📫 Contato
+
+- 📧 **E-mail:** ucg.profissional@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ubirajara)  
+- 🦊 [GitLab](https://gitlab.com/ucgfilho)
