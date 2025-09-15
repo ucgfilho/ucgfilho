@@ -30,5 +30,5 @@ Sou apaixonado por tecnologia e inovação, com foco em garantir a qualidade e a
 ### 📫 Contato
 
 - 📧 **E-mail:** ucg.profissional@gmail.com  
-- 🔗 **Acesse o meu** [LinkedIn](https://www.linkedin.com/in/ubirajara)  
+- 🔗 **Acesse o meu** [LinkedIn](https://www.linkedin.com/in/ucgfilho/)  
 - 🦊 **Acesse o meu** [GitLab](https://gitlab.com/ucgfilho)
