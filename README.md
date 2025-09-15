@@ -2,9 +2,8 @@
 
 🎓 **Graduando em Sistemas de Informação pela UESB**  
 💼 **Analista de Testes (QA)** | 🧪 **Automação de Testes**  
-📍 **Vitória da Conquista, BA, Brasil**  
+📍 **Jequié, BA, Brasil**  
 📧 **ucg.profissional@gmail.com**  
-🔗 [Meu Portfólio](https://meu-portifolio.com)
 
 ---
 
@@ -31,5 +30,5 @@ Sou apaixonado por tecnologia e inovação, com foco em garantir a qualidade e a
 ### 📫 Contato
 
 - 📧 **E-mail:** ucg.profissional@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ubirajara)  
-- 🦊 [GitLab](https://gitlab.com/ucgfilho)
+- 🔗 **Acesse o meu** [LinkedIn](https://www.linkedin.com/in/ubirajara)  
+- 🦊 **Acesse o meu** [GitLab](https://gitlab.com/ucgfilho)
