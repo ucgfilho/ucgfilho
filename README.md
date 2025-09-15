@@ -1,15 +1,13 @@
-## Olá, meu nome é Ubirajara e seja bem-vindo(a) ao meu perfil!
+## Olá! Sou Ubirajara, graduando em Sistemas de Informação pela UESB e atuo na área de Análise de Testes (QA), com foco em testes funcionais e automatizados.
 
--  Trabalho com front-end e design
--  Experiência em Adobe Photoshop e Figma
+Tenho experiência prática na validação de aplicações, realizando testes manuais e automatizados para os projetos envolvidos. Trabalho com ferramentas como Postman, Cypress, Ruby, Gherkin, Python e JavaScript, sempre buscando aprimorar processos de teste e a experiência do usuário final.
  _______________________________________________________________________
--  **Email:** ucg.filho@outlook.com
--  **LinkedIn:** https://www.linkedin.com/in/ubirajara-filho-93137b249/
--  **Instagram:** [@ucg.filho](https://www.instagram.com/ucg.filho/)
+-  **Email:** ucg.profissional@gmail.com
+-  **LinkedIn:** www.linkedin.com/in/ucgfilho
 
 <div>
   <a href="https://github.com/ucgfilho">
     <img height=200vh align="center" src="https://github-readme-stats.vercel.app/api?username=ucgfilho&theme=tokyonight" />
-    <img height=150vh align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ucgfilho&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
+    <img height=200vh align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ucgfilho&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
   </a>
 </div>
