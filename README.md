@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Ubirajara!
+## Olá, eu sou Ubirajara!
 
 🎓 **Graduando em Sistemas de Informação pela UESB**  
 💼 **Analista de Testes (QA)** | 🧪 **Automação de Testes**  
