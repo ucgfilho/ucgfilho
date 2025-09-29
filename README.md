@@ -1,6 +1,6 @@
 ## Olá, eu sou Ubirajara!
 
-🎓 **Graduando em Sistemas de Informação pela UESB**  
+🎓 **Graduando em Sistemas de Informação - UESB**  
 💼 **Analista de Testes (QA)** | 🧪 **Automação de Testes**  
 📍 **Jequié, BA, Brasil**  
 📧 **ucgf.profissional@gmail.com**  
@@ -15,9 +15,11 @@ Sou apaixonado por tecnologia e inovação, com foco em garantir a qualidade e a
 
 ### 🛠️ Tecnologias que utilizo
 
-- **Testes Funcionais e Automatizados:** Cypress, Postman  
-- **Linguagens de Programação:** Ruby, Gherkin, Python, JavaScript  
-- **Ferramentas de Desenvolvimento:** Git, GitHub, GitLab, Docker
+- **Testes funcionais:** Cypress
+- **Geração de relatórios:** JUnit, Mochawesome  
+- **Linguagens de Programação:** Gherkin, JavaScript  
+- **CI/CD:** GitHub Actions, GitLab CI
+- **Testes de API:** Postman, Swagger 
 
 ---
 
