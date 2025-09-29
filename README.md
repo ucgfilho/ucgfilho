@@ -3,7 +3,7 @@
 🎓 **Graduando em Sistemas de Informação pela UESB**  
 💼 **Analista de Testes (QA)** | 🧪 **Automação de Testes**  
 📍 **Jequié, BA, Brasil**  
-📧 **ucg.profissional@gmail.com**  
+📧 **ucgf.profissional@gmail.com**  
 
 ---
 
@@ -29,6 +29,6 @@ Sou apaixonado por tecnologia e inovação, com foco em garantir a qualidade e a
 
 ### 📫 Contato
 
-- 📧 **E-mail:** ucg.profissional@gmail.com  
+- 📧 **E-mail:** ucgf.profissional@gmail.com  
 - 🔗 **Acesse o meu** [LinkedIn](https://www.linkedin.com/in/ucgfilho/)  
 - 🦊 **Acesse o meu** [GitLab](https://gitlab.com/ucgfilho)
