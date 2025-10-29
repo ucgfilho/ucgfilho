@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e inovação, com foco em garantir a qualidade e a confiabilidade dos sistemas em que atuo por meio de testes eficientes e bem estruturados. Atualmente, estou me aprofundando em automação de testes utilizando ferramentas como Cypress, Postman, Ruby, Gherkin, Python e JavaScript.
+Sou apaixonado por tecnologia e inovação, com foco em garantir a qualidade e a confiabilidade dos sistemas em que atuo por meio de testes eficientes e bem estruturados. Atualmente, estou me aprofundando em automação de testes utilizando ferramentas como Cypress, Postman, Ruby, Gherkin, Java e JavaScript.
 
 ---
 
@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia e inovação, com foco em garantir a qualidade e a
 
 - **Testes funcionais:** Cypress
 - **Geração de relatórios:** JUnit, Mochawesome  
-- **Linguagens de Programação:** Gherkin, JavaScript  
+- **Linguagens de Programação:** Gherkin, Java e JavaScript  
 - **CI/CD:** GitHub Actions, GitLab CI
 - **Testes de API:** Postman, Swagger 
 
