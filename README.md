@@ -1,36 +1,45 @@
-## Olá, eu sou Ubirajara!
+# Ubirajara Filho | QA Engineer
 
-🎓 **Graduando em Sistemas de Informação - UESB**  
-💼 **Analista de Testes (QA)**
-📍 **Jequié, BA, Brasil**  
-📧 **ucgf.profissional@gmail.com**  
+**Analista de Testes** | **Automação de Testes** | **Quality Assurance**  
+Graduando em Sistemas de Informação - UESB | Jequié, BA, Brasil
 
 ---
 
-### 🚀 Sobre mim
+## Sobre
 
-Sou apaixonado por tecnologia e inovação, com foco em garantir a qualidade e a confiabilidade dos sistemas em que atuo por meio de testes eficientes e bem estruturados. Atualmente, estou me aprofundando em automação de testes utilizando ferramentas como Cypress, CodeceptJS e Postman.
+QA Engineer com experiência em automação de testes end-to-end, testes de API e integração contínua. Especializado em Cypress e JavaScript, com foco em garantir a qualidade e confiabilidade de aplicações web através de processos de teste escaláveis e bem documentados.
 
----
-
-### 🛠️ Tecnologias que utilizo
-
-- **Testes funcionais:** Cypress e CodeceptJS
-- **Geração de relatórios:** JUnit, Mochawesome e Allure 
-- **Linguagem de Programação:** JavaScript  
-- **CI/CD:** GitHub Actions e GitLab CI
-- **Testes de API:** Postman e CodeceptJS
+**Palavras-chave:** QA, Quality Assurance, Test Automation, Cypress, JavaScript, API Testing, CI/CD, Software Testing, SDET
 
 ---
 
-### 📈 Estatísticas do GitHub
+## Stack Técnica
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ubirajara&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+| Categoria | Ferramentas |
+|-----------|-------------|
+| **Automação E2E** | Cypress, CodeceptJS |
+| **Testes de API** | Postman, REST API Testing |
+| **Relatórios** | Allure, Mochawesome, JUnit |
+| **CI/CD** | GitHub Actions, GitLab CI |
+| **Linguagem** | JavaScript |
+| **Metodologias** | Page Object Model, BDD |
 
 ---
 
-### 📫 Contato
+## GitHub Analytics
 
-- 📧 **E-mail:** ucgf.profissional@gmail.com  
-- 🔗 **Acesse o meu** [LinkedIn](https://www.linkedin.com/in/ucgfilho/)  
-- 🦊 **Acesse o meu** [GitLab](https://gitlab.com/ucgfilho)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubirajara&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubirajara&layout=compact&theme=dark)
+
+</div>
+
+---
+
+## Contato
+
+[![Email](https://img.shields.io/badge/Email-ucgf.profissional%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ucgf.profissional@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ucgfilho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ucgfilho/)
+[![GitLab](https://img.shields.io/badge/GitLab-ucgfilho-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ucgfilho)
