@@ -1,36 +1,40 @@
-# Ubirajara Filho | QA Engineer
+# 👋 Ubirajara Filho | QA Engineer
 
-**Analista de Testes** | **Automação de Testes** | **Quality Assurance**  
-Graduando em Sistemas de Informação - UESB | Jequié, BA, Brasil
-
----
-
-## Sobre
-
-QA Engineer com experiência em automação de testes end-to-end, testes de API e integração contínua. Especializado em Cypress e JavaScript, com foco em garantir a qualidade e confiabilidade de aplicações web através de processos de teste escaláveis e bem documentados.
-
-**Palavras-chave:** QA, Quality Assurance, Test Automation, Cypress, JavaScript, API Testing, CI/CD, Software Testing, SDET
+**Quality Assurance Engineer** • **Test Automation** • **Software Quality**  
+Graduando em Sistemas de Informação — **UESB**  
+📍 Jequié, Bahia, Brasil
 
 ---
 
-## Stack Técnica
+## 🧪 Sobre Mim
 
-| Categoria | Ferramentas |
-|-----------|-------------|
+Sou **QA Engineer** com foco em **qualidade de software e automação de testes**, atuando na validação de aplicações web por meio de testes **end-to-end**, **testes de API** e integração com **pipelines de CI/CD**.
+
+Possuo experiência prática no desenvolvimento de testes automatizados escaláveis, bem estruturados e documentados, utilizando **Cypress** e **JavaScript**, sempre alinhado às boas práticas de engenharia de software. Tenho como objetivo garantir entregas confiáveis, reduzir riscos em produção e promover a cultura de qualidade desde as fases iniciais do desenvolvimento.
+
+**Áreas de atuação:**  
+Quality Assurance • Test Automation • Software Testing • SDET
+
+---
+
+## 🛠️ Stack Técnica
+
+| Categoria | Tecnologias |
+|---------|------------|
 | **Automação E2E** | Cypress, CodeceptJS |
-| **Testes de API** | Postman, REST API Testing |
-| **Relatórios** | Allure, Mochawesome, JUnit |
+| **Testes de API** | Postman, RESTful APIs |
+| **Relatórios de Testes** | Allure, Mochawesome, JUnit |
 | **CI/CD** | GitHub Actions, GitLab CI |
 | **Linguagem** | JavaScript |
-| **Metodologias** | Page Object Model, BDD |
+| **Boas Práticas** | Page Object Model (POM), BDD |
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubirajara&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubirajara&show_icons=true&count_private=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubirajara&layout=compact&theme=dark)
 
@@ -38,7 +42,7 @@ QA Engineer com experiência em automação de testes end-to-end, testes de API 
 
 ---
 
-## Contato
+## 📬 Contato
 
 [![Email](https://img.shields.io/badge/Email-ucgf.profissional%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ucgf.profissional@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ucgfilho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ucgfilho/)
