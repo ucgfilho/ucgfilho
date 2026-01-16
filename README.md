@@ -34,9 +34,9 @@ Quality Assurance • Test Automation • Software Testing • SDET
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubirajara&show_icons=true&count_private=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ubirajara&layout=compact&theme=dark)
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ucgfilho&show_icons=true&count_private=true&theme=dark&include_all_commits=true" />
+  
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ucgfilho&layout=compact&theme=dark" />
 
 </div>
 
