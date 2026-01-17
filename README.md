@@ -6,7 +6,7 @@
 
 Analista de QA apaixonado por **automação de testes**, **práticas DevOps** e **cultura de qualidade**. Busco contribuir com identificação técnica de falhas, construção de arquiteturas de testes escaláveis e implementação de shift-left testing em ambientes ágeis com entrega contínua.
 
-Sou um entusiasta de tecnologia e adoro aprender sobre novas tecnologias.
+Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 
 ## 🌎 Encontre-me na web
 
