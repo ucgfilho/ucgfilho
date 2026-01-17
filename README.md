@@ -16,8 +16,6 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas tecnologias.
 
 - 🌐 [Portfólio](https://ubirajara-filho-portfolio.vercel.app/)
 
-- 🐙 [GitHub](https://github.com/ucgfilho)
-
 - 🦊 [GitLab](https://gitlab.com/ucgfilho)
 
 ## 💻 Áreas de Interesse
