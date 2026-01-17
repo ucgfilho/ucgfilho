@@ -83,8 +83,6 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas tecnologias.
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ucgfilho&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="195" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ucgfilho&layout=compact&langs_count=10&theme=radical" height="195" alt="languages graph"  />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ucgfilho&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" width="100%" alt="activity-graph graph"  />
 </div>
