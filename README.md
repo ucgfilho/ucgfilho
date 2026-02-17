@@ -54,7 +54,7 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 
 - [**Postman**](https://www.postman.com/): Plataforma para desenvolvimento e testes de API.
 
-- [**Insomnia**](https://insomnia.rest/): Cliente HTTP para testes de API.
+- [**Insomnia**](https://insomnia.rest/): Plataforma para desenvolvimento e testes de API.
 
 - [**Mochawesome**](https://www.npmjs.com/package/mochawesome): Gerador de relatórios de testes.
 
