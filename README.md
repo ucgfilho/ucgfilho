@@ -46,6 +46,10 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 
 - [**Cypress**](https://www.cypress.io/): Framework moderno para testes end-to-end de aplicações web.
 
+- [**Appium**](https://appium.io/): Framework para testes end-to-end de aplicações mobile.
+
+- [**Robot Framework**](https://robotframework.org/): Framework para automação de testes mobile, integrando-se ao Appium.
+
 - [**CodeceptJS**](https://codecept.io/): Framework de automação de testes baseado em BDD.
 
 - [**Postman**](https://www.postman.com/): Plataforma para desenvolvimento e testes de API.
