@@ -23,7 +23,7 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 - **QA** – Assegurando a Qualidade das Aplicações:
   - **Testes Manuais:** Execução de testes manuais e exploratórios, validando funcionalidades críticas antes das releases.
 
-  - **Testes Automatizados:** Desenvolvimento de suites de testes E2E e API automatizados com Cypress, CodeceptJS e outras ferramentas.
+  - **Testes Automatizados:** Desenvolvimento de suites de testes E2E e API automatizados com Cypress, Appium e Robot Framework.
 
   - **Documentação de Testes:** Análise de requisitos, definição de critérios de aceite e cenários de teste, garantindo alinhamento com as necessidades do usuário final.
 
