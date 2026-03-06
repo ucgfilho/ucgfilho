@@ -1,5 +1,3 @@
-<!-- Parte superior da página -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Ubirajara+Filho!+%F0%9F%91%8B)](https://git.io/typing-svg)
@@ -23,7 +21,7 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 - **QA** – Assegurando a Qualidade das Aplicações:
   - **Testes Manuais:** Execução de testes manuais e exploratórios, validando funcionalidades críticas antes das releases.
 
-  - **Testes Automatizados:** Desenvolvimento de suites de testes Web, Mobile e API automatizados com Cypress, Appium e Robot Framework.
+  - **Testes Automatizados:** Desenvolvimento de suites de testes Web, Mobile, API e Performance automatizados com Cypress, Appium, Robot Framework, Postman e Grafana k6.
 
   - **Documentação de Testes:** Análise de requisitos, definição de critérios de aceite e cenários de teste, garantindo alinhamento com as necessidades do usuário final.
 
@@ -55,6 +53,8 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 - [**Postman**](https://www.postman.com/): Plataforma para desenvolvimento e testes de API.
 
 - [**Insomnia**](https://insomnia.rest/): Plataforma para desenvolvimento e testes de API.
+
+- [**Grafana k6**](https://grafana.com/oss/k6/): Ferramenta open-source para testes de carga e performance.
 
 - [**Mochawesome**](https://www.npmjs.com/package/mochawesome): Gerador de relatórios de testes.
 
@@ -89,7 +89,6 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ucgfilho&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" width="100%" alt="activity-graph graph"  />
 </div>
 
-<!-- Contador de Visitantes -->
 <div align="center">
   <br>
   <p align="center">
@@ -98,8 +97,4 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
   <br>
 </div>
 
-<!-- Parte inferior da página -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
