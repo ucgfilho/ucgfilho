@@ -54,7 +54,7 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 
 - [**Insomnia**](https://insomnia.rest/): Plataforma para desenvolvimento e testes de API.
 
-- [**Grafana k6**](https://grafana.com/oss/k6/): Ferramenta open-source para testes de carga e performance.
+- [**Grafana k6**](https://grafana.com/oss/k6/): Ferramenta open-source para testes de performance.
 
 - [**Mochawesome**](https://www.npmjs.com/package/mochawesome): Gerador de relatórios de testes.
 
