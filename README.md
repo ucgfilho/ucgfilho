@@ -16,7 +16,7 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 
 - 🦊 [GitLab](https://gitlab.com/ucgfilho)
 
-## 💻 Áreas de Interesse
+## 💻 Minha experiência
 
 - **QA** – Assegurando a Qualidade das Aplicações:
   - **Testes Manuais:** Execução de testes manuais e exploratórios, validando funcionalidades críticas antes das releases.
@@ -34,7 +34,7 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 
   - **Versionamento:** Gestão de código com Git, GitHub e GitLab.
 
-## 👨💻Conhecimentos
+## 👨💻Competências e habilidades
 
 ### Na área de QA
 
