@@ -84,17 +84,4 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 
 ---
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ucgfilho&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" width="100%" alt="activity-graph graph"  />
-</div>
-
-<div align="center">
-  <br>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ucgfilho&color=4079a8&style=flat-square&label=VISITANTES" alt="Contador de visitantes" />
-  </p>
-  <br>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
