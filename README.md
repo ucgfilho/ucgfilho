@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-# 👋 Olá, eu me chamo Ubirajara Filho!
+# 👋 Olá, eu me chamo Ubirajara!
 
 Desenvolvedor Back-End apaixonado por **PHP**, **Laravel**, **TypeScript**, **C#**, **AWS** e **arquitetura de software**. Atuo no desenvolvimento de sistemas, APIs REST, integrações e automações escaláveis, incluindo Web Crawlers e soluções serverless.
 
