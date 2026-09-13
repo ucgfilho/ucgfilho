@@ -1,84 +1,71 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Ubirajara+Filho!+%F0%9F%91%8B)](https://git.io/typing-svg)
+# 👋 Olá, eu me chamo Ubirajara Filho!
 
-Analista de QA apaixonado por **automação de testes**, **práticas DevOps** e **cultura de qualidade**. Busco contribuir com identificação técnica de falhas, construção de arquiteturas de testes escaláveis e implementação de shift-left testing em ambientes ágeis com entrega contínua.
+Desenvolvedor Back-End apaixonado por **PHP**, **Laravel**, **TypeScript**, **C#**, **AWS** e **arquitetura de software**. Atuo no desenvolvimento de sistemas, APIs REST, integrações e automações escaláveis, incluindo Web Crawlers e soluções serverless.
 
 Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 
 ## 🌎 Encontre-me na web
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ucgfilho/)
-
 - ✉️ ucgf.profissional@gmail.com
-
 - 🌐 [Portfólio](https://ubirajara-filho-portfolio.vercel.app/)
-
 - 🦊 [GitLab](https://gitlab.com/ucgfilho)
 
 ## 💻 Minha experiência
 
-- **QA** – Assegurando a Qualidade das Aplicações:
-  - **Testes Manuais:** Execução de testes manuais e exploratórios, validando funcionalidades críticas antes das releases.
+- **Desenvolvimento Back-End** – Construindo sistemas e automações escaláveis:
+  - **APIs REST:** Desenvolvimento e integração de serviços utilizando PHP, Laravel, TypeScript e C#.
 
-  - **Testes Automatizados:** Desenvolvimento de suites de testes Web, Mobile, API e Performance automatizados com Cypress, Appium, Robot Framework, Postman e Grafana k6.
+  - **Web Crawling:** Criação de crawlers parametrizados com Puppeteer, manipulação de sessões, CAPTCHA, PDFs e consultas públicas.
 
-  - **Documentação de Testes:** Análise de requisitos, definição de critérios de aceite e cenários de teste, garantindo alinhamento com as necessidades do usuário final.
+  - **Cloud:** Implementação de automações serverless com AWS Lambda, AWS S3 e AWS SQS.
 
 ---
 
-- **DEVOPS** – Adotando as melhores práticas para uma operação eficiente:
-  - **CI/CD:** Implementação de pipelines com GitHub Actions e GitLab CI/CD para automação de testes e integração contínua.
+- **Engenharia de Software** – Aplicando boas práticas de arquitetura:
+  - **Arquitetura em Camadas:** Controller • Service • Repository, orientação a objetos e regras de negócio.
 
-  - **Containers:** Experiência com Docker para gerenciamento de ambientes de testes.
+  - **Banco de Dados:** Modelagem relacional, PostgreSQL, MySQL, migrations e Eloquent ORM.
 
-  - **Versionamento:** Gestão de código com Git, GitHub e GitLab.
+  - **DevOps:** Versionamento com Git, Docker, GitHub Actions e GitLab CI/CD.
 
-## 👨💻Competências e habilidades
+## 👨‍💻 Competências e habilidades
 
-### Na área de QA
+### Na área de Back-End
 
 <details>
 
-<summary>Conhecimento das melhores ferramentas para garantir que o software seja sempre de alta qualidade.</summary>
+<summary>Principais linguagens, frameworks e tecnologias utilizadas.</summary>
 
-- [**Cypress**](https://www.cypress.io/): Framework moderno para testes end-to-end de aplicações web.
-
-- [**Appium**](https://appium.io/): Framework para testes end-to-end de aplicações mobile.
-
-- [**Robot Framework**](https://robotframework.org/): Framework para automação de testes mobile, integrando-se ao Appium.
-
-- [**CodeceptJS**](https://codecept.io/): Framework de automação de testes baseado em BDD.
-
-- [**Postman**](https://www.postman.com/): Plataforma para desenvolvimento e testes de API.
-
-- [**Insomnia**](https://insomnia.rest/): Plataforma para desenvolvimento e testes de API.
-
-- [**Grafana k6**](https://grafana.com/oss/k6/): Ferramenta open-source para testes de performance.
-
-- [**Mochawesome**](https://www.npmjs.com/package/mochawesome): Gerador de relatórios de testes.
-
-- [**Allure Report**](https://allurereport.org/): Framework para relatórios de testes automatizados.
-
-- [**JUnit**](https://junit.org/): Framework de relatórios e testes.
+- **PHP**
+- **Laravel**
+- **TypeScript**
+- **C# / .NET**
+- **Node.js**
+- **APIs REST**
+- **Puppeteer**
+- **Web Crawling**
 
 </details>
 
 ---
 
-### Na área de DEVOPS
+### Na área de Cloud & DevOps
 
 <details>
 
-  <summary>Experiência com as principais ferramentas e tecnologias para otimização e automação de processos.</summary>
+<summary>Ferramentas para automação, infraestrutura e desenvolvimento.</summary>
 
-- **Git:** Controle de versão e gestão de código fonte.
-
-- **GitHub Actions:** Automação de pipelines CI/CD para integração e entrega contínua.
-
-- **GitLab CI/CD:** Pipelines de automação para testes e deploy.
-
-- **Docker:** Containerização de ambientes para testes consistentes.
+- **Amazon Web Services**
+- **Docker**
+- **Git**
+- **GitHub Actions**
+- **GitLab CI/CD**
+- **Postman**
+- **Linux**
+- **DBeaver**
 
 </details>
 
