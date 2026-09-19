@@ -16,7 +16,7 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 ## 💻 Minha experiência
 
 - **Desenvolvimento Back-End** – Construindo sistemas e automações escaláveis:
-  - **APIs REST:** Desenvolvimento e integração de serviços utilizando PHP, Laravel, TypeScript e C#.
+  - **APIs REST:** Desenvolvimento e integração de serviços utilizando C# e .NET.
 
   - **Web Crawling:** Criação de crawlers parametrizados com Puppeteer, manipulação de sessões, CAPTCHA, PDFs e consultas públicas.
 
