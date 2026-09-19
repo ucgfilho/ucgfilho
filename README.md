@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu me chamo Ubirajara!
 
-Desenvolvedor Back-End apaixonado por **PHP**, **Laravel**, **TypeScript**, **C#**, **AWS** e **arquitetura de software**. Atuo no desenvolvimento de sistemas, APIs REST, integrações e automações escaláveis, incluindo Web Crawlers e soluções serverless.
+Desenvolvedor Back-End com expeeriência sólida em **C#** e **.NET**. Atuo no desenvolvimento de sistemas, APIs REST, integrações e automações escaláveis, incluindo Web Crawlers e soluções serverless.
 
 Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 
