@@ -1,19 +1,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-# 👋 Olá, eu me chamo Ubirajara!
+# Olá, eu me chamo Ubirajara!
 
 Desenvolvedor Back-End com expeeriência sólida em **C#** e **.NET**. Atuo no desenvolvimento de sistemas, APIs REST, integrações e automações escaláveis, incluindo Web Crawlers e soluções serverless.
 
 Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 
-## 🌎 Encontre-me na web
+## Encontre-me na web
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ucgfilho/)
 - ✉️ ucgf.profissional@gmail.com
 - 🌐 [Portfólio](https://ubirajara-filho-portfolio.vercel.app/)
 - 🦊 [GitLab](https://gitlab.com/ucgfilho)
 
-## 💻 Minha experiência
+## Minha experiência
 
 - **Desenvolvimento Back-End** – Construindo sistemas e automações escaláveis:
   - **APIs REST:** Desenvolvimento e integração de serviços utilizando C# e .NET.
@@ -31,7 +31,7 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas inovações.
 
   - **DevOps:** Versionamento com Git, Docker, GitHub Actions e GitLab CI/CD.
 
-## 👨‍💻 Competências e habilidades
+## Competências e habilidades
 
 ### Na área de Back-End
 
